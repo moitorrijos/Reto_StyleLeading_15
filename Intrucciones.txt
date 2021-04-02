@@ -1,0 +1,19 @@
+Guía de Estilos
+
+Detalles de los colores están creados en las variables CSS, mira el archivo "style.css".
+
+/*Global*/
+/* Propiedades Personalizadas */
+:root{
+  --color-line-1: #F7EC7D;
+  --color-line-2: #E38F66;
+  --color-line-3: #AA445F;
+  --color-line-4: #62306D;
+}
+La imagen "resultado_final.png" es la referencia visual de cómo debe quedar al final el proyecto.
+El dibujo del proyecto es pantalla completa, la primeras dos filas tienes 16% de alto, las dos siguientes 34% de alto, con un ancho de 100% para todas las filas.
+
+Si tienes dudas adiconales me puedes contactar a: jair@cooltimedia.com
+
+Gracias por participar.
+Te deseamos los mejor.
